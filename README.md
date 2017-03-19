@@ -1,1 +1,2 @@
 # SplashScreen
+SplashScreen for Android
